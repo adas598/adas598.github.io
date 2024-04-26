@@ -20,8 +20,8 @@ Welcome to my blog! I'm Ayush, an aspiring machine learning and robotics researc
 
 ## Social Media
 
-* [GitHub]((https://github.com/adas598))
+* [GitHub](https://github.com/adas598)
 
-* [LinkedIn]((https://www.linkedin.com/in/ayush-das-62549915a/))
+* [LinkedIn](https://www.linkedin.com/in/ayush-das-62549915a/)
 
 Note: This template uses Jekyll syntax to loop through the posts in the `posts` folder and display their titles, excerpts, and links. It also assumes you have a `featured_image.jpg` in the `assets` folder.
