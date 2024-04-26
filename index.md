@@ -2,28 +2,22 @@
 
 This is my personal blog, where I share my thoughts and experiences on various topics.
 
-## Recent Posts
+## About Me
 
-[My First Post]({/posts/my-first-post.md})
+Welcome to my blog! I'm Ayush, an aspiring machine learning and robotics researcher. I created this blog to share my thoughts and experiences on machine learning, robotics, and other tech stuff that is pretty cool. I hope you enjoy reading my posts.  
+
+Note: The image provided above is an AI generated image using Meta's new Llama 3. Keen to see how they improve over time, especially since there are open source now.  
 
 ## Featured Image
 
 ![AI generated image](assests/image.png)
 
-## About Me
+## Recent Posts
 
-Welcome to my blog! I'm Ayush, an aspiring machine learning and robotics researcher. I created this blog to share my thoughts and experiences on machine learning, robotics, and other tech stuff that is pretty cool. I hope you enjoy reading my posts.  
-
-Note: The image provided above is an AI generated image using Meta's new Llama 3. Keen to see how they improve over time, especially since there are open source now.
-
-## Archives
-
-* [My First Post](posts/my-first-post.md)
+* [My First Post]({/posts/my-first-post.md})
 
 ## Social Media
 
 * [GitHub](https://github.com/adas598)
 
 * [LinkedIn](https://www.linkedin.com/in/ayush-das-62549915a/)
-
-Note: This template uses Jekyll syntax to loop through the posts in the `posts` folder and display their titles, excerpts, and links. It also assumes you have a `featured_image.jpg` in the `assets` folder.
