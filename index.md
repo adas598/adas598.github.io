@@ -14,7 +14,7 @@ Note: The image provided above is an AI generated image using Meta's new Llama 3
 
 ## Recent Posts
 
-* [My First Post]({/posts/my-first-post.md})
+* [My First Post](/posts/my-first-post.md)
 
 ## Social Media
 
