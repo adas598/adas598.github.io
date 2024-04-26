@@ -16,7 +16,7 @@ Welcome to my blog! I'm Ayush, an aspiring machine learning and robotics researc
 
 ## Archives
 
-* [My First Post]((posts/my-first-post.md))
+* [My First Post](posts/my-first-post.md)
 
 ## Social Media
 
